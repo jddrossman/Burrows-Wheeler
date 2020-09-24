@@ -1,1 +1,1 @@
-# Kd-Trees
+# Burrows-Wheeler
